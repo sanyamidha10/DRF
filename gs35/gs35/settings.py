@@ -126,7 +126,7 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-# Search Filter
-REST_FRAMEWORK = {
-    'SEARCH_PARAM': 'q'
-}
+#  Search Filter
+# REST_FRAMEWORK = {
+#     'SEARCH_PARAM': 'q'
+# }
